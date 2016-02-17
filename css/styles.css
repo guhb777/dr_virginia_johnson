@@ -9,7 +9,10 @@ body{
 }
 
 footer {
-    
+    background-color: #FF7900;
+    height:300px;
+    text-align:center;
+    padding:40px;
 }
 
 h1 {
@@ -17,6 +20,7 @@ h1 {
 }
 
 header{
+    background
     
 }
 
@@ -42,4 +46,6 @@ a {
 .button:hover {
     background-color:#FF0099;
 }
+
+
 
