@@ -1,0 +1,45 @@
+/*GLOBAL STYLES*/
+
+main {
+    
+}
+
+body{
+    
+}
+
+footer {
+    
+}
+
+h1 {
+    
+}
+
+header{
+    
+}
+
+p {
+    
+}
+
+a {
+    
+}
+
+
+/*BUTTON STYLES*/
+
+.button {
+    background-color:#FF7900; 
+    padding:15px 22px;
+    border-radius:6px;
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+.button:hover {
+    background-color:#FF0099;
+}
+
